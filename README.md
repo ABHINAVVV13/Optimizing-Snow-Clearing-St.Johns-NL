@@ -9,5 +9,7 @@ pip install osmnx networkx pandas matplotlib plotly numpy
 ## Local-directory:
 First Setup a Virtual Environment then run
 ```
-pip intall -r requirements.txt
+pip intall -r requirements.txt 
 ```
+
+_done_
