@@ -1,0 +1,7 @@
+###### Requirements######
+matplotlib
+pandas
+networkx
+osmnx
+numpy
+plotly
